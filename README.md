@@ -24,6 +24,7 @@ Matplotlib
 [2] Chen, W., Sidky, H., & Ferguson, A. L. (2019). Nonlinear Discovery of Slow Molecular Modes using State-Free Reversible VAMPnets. The Journal of Chemical Physics, 150(21), 214114. https://doi.org/10.1063/1.5092521
 
 [3] Mardt, A., Pasquali, L., Noé, F. & Wu, H (2019). Deep learning Markov and Koopman models with physical constraints. arXiv preprint arXiv:1912.07392
+
 ---
 ### Copyright
 
