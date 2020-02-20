@@ -13,9 +13,10 @@ A python package that offers an implementation of deep learning methods for the 
 ---
 ### Requirements
 
-PyTorch 1.2
-Numpy
-Matplotlib
++ PyTorch 1.2
++ Numpy
++ Matplotlib
+
 ---
 ### References
 
